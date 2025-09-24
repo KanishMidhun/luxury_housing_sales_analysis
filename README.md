@@ -31,6 +31,6 @@ Step 3: Power BI — Visualize via Direct SQL Connection
 ●	Analytical insights useful to real estate firms
 ●	Hands-on with 3 critical tools in the data analytics workflow
 
-
-
+**Luxury Housing Sales Analysis**
+Dashboard Link - https://app.powerbi.com/links/exSHH0BBwt?ctid=a3536b65-8076-4681-a5a1-ae71e486023e&pbi_source=linkShare
 
