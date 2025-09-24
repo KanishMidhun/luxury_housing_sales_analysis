@@ -32,5 +32,5 @@ Step 3: Power BI — Visualize via Direct SQL Connection
 ●	Hands-on with 3 critical tools in the data analytics workflow
 
 **Luxury Housing Sales Analysis**
-Dashboard Link - https://app.powerbi.com/links/exSHH0BBwt?ctid=a3536b65-8076-4681-a5a1-ae71e486023e&pbi_source=linkShare
+Dashboard Link - https://app.powerbi.com/view?r=eyJrIjoiZGQ4Y2Q1NDQtMjczNC00NTMyLTg5MjktMjQ3MzQwZmI4M2VjIiwidCI6ImEzNTM2YjY1LTgwNzYtNDY4MS1hNWExLWFlNzFlNDg2MDIzZSJ9
 
